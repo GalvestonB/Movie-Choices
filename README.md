@@ -18,4 +18,4 @@ Unless you are deep in the movie industry or analyzing specific films, you don't
 
 --------
 
-<p><small>Project based on the <https://www.kaggle.com/datasets/beridzeg45/all-movies-on-imdb> </small></p>
+<p><small>Project based on the https://www.kaggle.com/datasets/beridzeg45/all-movies-on-imdb. </small></p>
